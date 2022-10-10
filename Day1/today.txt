@@ -1,0 +1,17 @@
+Day1:
+
+-I started with a course from Dr.Angela Yu's udemy video(Data Science and Machine Learning video)
+- 6 steps of ML:
+	1) Formulate Question
+	2) Gather Data
+	3) Clean Data
+	4) Explore and visualize Data
+	5) Train Algorithm
+	6) Evaluate 
+- Learnt basics of Linear Regression algorithm:
+	Key Points: y= mx+c in form H(x) = theta_0 + theta_1 * x
+		    Feature / Target
+		    Residuals: Sum of squares of difference between functional value and value from the assumed line
+		    Line with minimum residual sum is the optimum solution
+
+Implemented a LinearRegression model in jupyter notebook using pandas, scikitlearn, DataFrame and visualized using matplotlib.pyplot
