@@ -15,3 +15,10 @@ Day1:
 		    Line with minimum residual sum is the optimum solution
 
 Implemented a LinearRegression model in jupyter notebook using pandas, scikitlearn, DataFrame and visualized using matplotlib.pyplot
+
+
+
+Error Stuck Update: 
+convert dataframe to an array by accessing the single column from the DF, i.e X = x['production_budget_usd']
+type(x) = pandas.core.frame.DataFrame
+type(X) = numpy.ndarray
