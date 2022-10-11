@@ -1,0 +1,3 @@
+- Wrote day 2 physical notes
+- Read cost function and it's minimization
+- Example of cost function and it's visual representation along with minimization
