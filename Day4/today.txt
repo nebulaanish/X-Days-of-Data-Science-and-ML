@@ -1,0 +1,2 @@
+- Learnt Gradient Descent Algorithm (Find Steepest slope and keep finding till slope = 0) and it's implementation
+- Visualized the graph for Gradient Descent algorithm along with the previous graph of the function and it's derivative.
