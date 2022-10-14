@@ -1,0 +1,1 @@
+- Implemented Gradient Descent as a function and calculated the local minima by using this algorithm to a new function g(x) = x^4-4x^2+5
