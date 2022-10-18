@@ -1,0 +1,1 @@
+- Did a data analysis project to merge data, clean it and hence extract meaning out of data along with visualization
