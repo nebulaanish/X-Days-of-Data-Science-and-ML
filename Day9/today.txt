@@ -1,0 +1,2 @@
+- Revised Web Scraping using BeautifulSoup to be able to collect data
+- Did some exercise on scraping
