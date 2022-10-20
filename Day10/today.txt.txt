@@ -1,0 +1,3 @@
+- Learnt about impact of learning rate in an algorithm
+- How an improper learning rate affects the performance of an algorithm.
+- visualized the pattern of learning rate in a gradient descent algorithm.
