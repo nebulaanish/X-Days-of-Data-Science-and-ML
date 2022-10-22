@@ -1,0 +1,2 @@
+- Learnt usage of loc, iloc and groupby indepth due.
+- Did data analysis on two clean datasets related to Russsia and Ukrain war. 
