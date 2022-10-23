@@ -1,0 +1,2 @@
+- Learnt theory about the practical implications of data and techniques to extract value from data.
+- Working on multivariate regression on toy dataset provided by scikit learn(boston house prices) .... project to be uploaded when completed.
