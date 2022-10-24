@@ -1,0 +1,1 @@
+- Worked on a project that's not exactly related to data science but made use of Maths and libraries NumPy and Matplotlib
