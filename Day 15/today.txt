@@ -1,0 +1,2 @@
+- Basic seaborn visualization
+- Few other data gathering and cleaning process
