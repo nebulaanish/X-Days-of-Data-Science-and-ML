@@ -1,0 +1,6 @@
+(worked on same file with new cells at the bottom)
+Learnt 
+- Descriptive Statistics
+- Mean, median, mode, max, min in dataframe or a series
+- Correlation
+- Multicollinearity
