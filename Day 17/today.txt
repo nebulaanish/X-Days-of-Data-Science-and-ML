@@ -1,0 +1,7 @@
+(worked on same file with new cells at the bottom) 
+
+Learnt 
+- Heatmaps,jointplot and pairplot
+- And interpretation of correlation coefficients.
+
+(learnt very less due to Tihar festival) 
