@@ -1,0 +1,3 @@
+- Did analysis of anscombe's quartet
+- found linear regression between all the variables in the dataframe
+- applied multivariate regression on the boston housing prices data
