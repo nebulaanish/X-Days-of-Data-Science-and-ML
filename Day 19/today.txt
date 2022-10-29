@@ -1,0 +1,4 @@
+(Worked on same file)
+- Model evaluation using different parameters
+- Skewness of data and techniques to improve model performance by data transformation
+- log based data transformation technique
