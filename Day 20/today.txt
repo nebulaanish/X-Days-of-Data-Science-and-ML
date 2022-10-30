@@ -1,0 +1,4 @@
+(Worked on same file)
+- Coefficients evaluation
+- P-values evaluation
+- VIF evaluation
