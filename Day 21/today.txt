@@ -1,0 +1,2 @@
+- Revised few topics from ahead
+- Learnt about few terms and little theory regarding feature selection
