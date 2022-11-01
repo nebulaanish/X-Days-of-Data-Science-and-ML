@@ -1,0 +1,3 @@
+- model simplification
+- Residuals v/s predicted y plot
+- Residual analysis 
