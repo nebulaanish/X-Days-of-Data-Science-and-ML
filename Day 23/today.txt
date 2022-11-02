@@ -1,0 +1,2 @@
+- Made a simple scraper to scrape cities of Nepal into a csv file
+- practised statistics
