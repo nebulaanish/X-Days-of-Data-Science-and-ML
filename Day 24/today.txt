@@ -1,0 +1,2 @@
+- Concept of Neural networks
+- getting started with using neural networks through keras and tensorflow 
