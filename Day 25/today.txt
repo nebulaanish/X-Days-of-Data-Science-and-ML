@@ -1,0 +1,2 @@
+- got started with learning JS to learn tensorflow.js
+from: learnxinyminutes.com/docs/javascript 
