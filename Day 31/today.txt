@@ -1,1 +1,2 @@
 - FIFA 23 players info dataset data analysis
+- Next step is applying multivariable regression to predict ratings of players
