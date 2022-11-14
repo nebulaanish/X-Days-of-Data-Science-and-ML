@@ -7,4 +7,4 @@ Navigation:
 - There are folders corresponding to each day that I learn
 - today.txt file explains what I learnt and did throughout the day
 
-$ \alpha $
+$$ \alpha $$
