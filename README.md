@@ -6,3 +6,5 @@ The aim of this X days series is to keep a track of my learning process. I have 
 Navigation:
 - There are folders corresponding to each day that I learn
 - today.txt file explains what I learnt and did throughout the day
+
+$ \alpha $
