@@ -6,3 +6,14 @@ The aim of this X days series is to keep a track of my learning process. I have 
 Navigation:
 - There are folders corresponding to each day that I learn
 - today.txt file explains what I learnt and did throughout the day
+
+Projects:
+- Sales data analysis [ Day 7&8]
+- 3D data visualization [ Day 11]
+- Car Dekho data analysis [ Day 12]
+- Russia Ukraine war data analysis [Day 12]
+- Anscombe's Quartet visualizatio [ Day 18]
+- Boston House Prices prediction using multi-variate regression [Day 20]
+- Cities in Nepal data scraping [ Day 23]
+- FIFA players data analysis [Day 31]
+- Boston Property Valuation tool [Day 32]
